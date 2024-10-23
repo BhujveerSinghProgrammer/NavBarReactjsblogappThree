@@ -1,0 +1,9 @@
+===>//To use Bootstrap in react way:-
+PS D:\JK\22October2024Tests\Projects\ReactJs\Blog\blogapp>
+npm install reactstrap 
+and
+npm install bootstrap
+
+
+==>//import Bootstrap in your App.js
+import 'bootstrap/dist/css/bootstrap.min.css';
